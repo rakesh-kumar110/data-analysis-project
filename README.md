@@ -54,7 +54,7 @@ The dashboard provides insights into sales trends, product categories, and custo
 
 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard1.png)
 
 
 
