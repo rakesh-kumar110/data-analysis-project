@@ -54,7 +54,7 @@ The dashboard provides insights into sales trends, product categories, and custo
 
 📸 Dashboard Preview
 
-![Dashboard](Amazon Sales Dashboard.png)
+![Dashboard Preview](Amazon Sales Dashboard.png)
 
 
 
